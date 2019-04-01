@@ -25,6 +25,9 @@ It will generate such database:
 '2', 'Second Tenant', 'multitenancy_tenant2', 'root', ''
 ```
 
+Here have to update dbPassword of every tenant so to match properly with mysql_db password
+
+
 * Run console commands for Tenant DBs
 
 ```
